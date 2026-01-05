@@ -2,6 +2,22 @@
 
 MediCare is a comprehensive dual-portal healthcare platform designed to optimize the patient-doctor experience. By combining real-time queue transparency, a commitment-based booking system, and AI-driven clinical insights, MediCare ensures that the most critical patients receive care exactly when they need it.
 
+# Website Prototype
+
+Live website : https://medicare-webapp-woad.vercel.app/
+
+for testing purpose you can use
+
+Patient ID and password :
+  email id : pushpansht@gmail.com
+  password : care123@
+
+Doctor ID and password :
+  email id : bhushank@gmail.com
+  password : care123@
+
+Or you can create your own id also that will also work completely fine
+  
 # Key Features
 
 # Patient Portal
