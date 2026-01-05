@@ -9,11 +9,15 @@ Live website : https://medicare-webapp-woad.vercel.app/
 for testing purpose you can use
 
 Patient ID and password :
+
   email id : pushpansht@gmail.com
+  
   password : care123@
 
 Doctor ID and password :
+
   email id : bhushank@gmail.com
+  
   password : care123@
 
 Or you can create your own id also that will also work completely fine
