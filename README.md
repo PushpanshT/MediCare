@@ -6,7 +6,9 @@ MediCare is a comprehensive dual-portal healthcare platform designed to optimize
 
 Live website : https://medicare-webapp-woad.vercel.app/
 
-for testing purpose you can use
+  
+  For testing purpose you can use
+
 
 Patient ID and password :
 
